@@ -1,6 +1,6 @@
 ## Hola visitante... 👋
 
-Bienvenid@ a mi humilde perfil 👉👈 todavía no es la gran cosa pero dale tiempo e irá creciendo al igual que yo 🌺. Por el momento a seguir aprendiendo 🧩y forjando carácter en mi camino del heroe _~~ejem Progra Avanzada...~~_
+Bienvenid@ a mi humilde perfil 👉👈 todavía no es la gran cosa pero dale tiempo e irá creciendo y floreciendo al igual que yo 🌺. Por el momento a seguir aprendiendo 🧩 conociendo 🧠 y forjando carácter 🛠️ en mi camino del heroe _~~ejem  Avanzada...~~_
 
 - 👷 Ingeniería Civil
   - 💻 Major en **Computación**
