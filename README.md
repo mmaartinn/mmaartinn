@@ -15,7 +15,7 @@ Aqui los repositorios que estoy usando este semestre, para poder acceder a ellos
 
 Ramo              | Link |
 ------------------- | ------- |
-Ing. de Software      | [IIC2143]([https://github.com/IIC2413/Syllabus-2025-2](https://github.com/IIC2143/Syllabus))     |
+Ing. de Software      | [IIC2143](https://github.com/IIC2143/Syllabus)     |
 EDD  | [IIC2133](https://github.com/IIC2133-PUC/2026-1)       |
 Visualización de Información   | [IIC2026](https://github.com/bellinux)      |
 
